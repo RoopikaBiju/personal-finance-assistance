@@ -131,7 +131,7 @@ For major changes, open an issue to discuss your ideas before implementation.
 ## 👥 Contributors
 This project was developed by:
 - **Roopika Biju** – [GitHub Profile](https://github.com/RoopikaBiju)
-- **Robby R Thomas 1** – [GitHub Profile](https://github.com/robby-516)
+- **Robby R Thomas** – [GitHub Profile](https://github.com/robby-516)
 - **Jayasankar K S** – [GitHub Profile](https://github.com/jayasankarks3378)
 
 ---
