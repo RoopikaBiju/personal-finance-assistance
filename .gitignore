@@ -1,0 +1,9 @@
+.env
+
+.sqlite3
+
+tessaractocr
+
+__pycache__/
+
+tessaractocr.zip
